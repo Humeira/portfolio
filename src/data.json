@@ -1,0 +1,82 @@
+{
+  "name": "Humeira Diljore",
+  "title": "Frontend Engineer",
+  "bio": "I was born and raised on the beautiful island of Mauritius. I enjoy creating things, and I feel lucky to do that in my work. I’ve spent nearly a decade building for the web with a focus on clarity, usability, and thoughtful design. I'm always curious about better ways to build. </br></br> These days, I'm the Lead Frontend Engineer at <a href='https://expat.com' target='_blank'>expat.com</a>, where  I get to create things that (hopefully) make people’s lives a little easier. </br></br> I tend to follow my curiosity down rabbit holes that often turn into full-blown passions, whether it’s experimenting with new productivity techniques, getting lost in literature, diving into photography, or perfecting my next cup of coffee.",
+  "newsletter": {
+    "title": "Weekly Insights",
+    "description": "Join my newsletter for weekly thoughts on software development, tech careers, and productivity.",
+    "url": "https://johndoe.substack.com"
+  },
+  "projects": [
+    {
+      "name": "Journalling Club",
+      "description": "Daily journaling prompt",
+      "url": "https://journaling.club"
+    },
+    {
+      "name": "Koz Kreol",
+      "description": "A Kreol Morisyen to English dictionary",
+      "url": "https:/kozkreol.net"
+    },
+    {
+      "name": "Brewing...",
+      "description": "Coming soon",
+      "url": "/"
+    }
+  ],
+  "speaking": [
+    {
+      "event": "Developer Conference",
+      "title": "Responsive Web Design",
+      "date": "April 2014",
+      "location": "Mauritius"
+    },
+    {
+      "event": "First Frontend Mauritius meetup",
+      "title": "Vue.js jumpstart",
+      "date": "July 2016",
+      "location": "Mauritius"
+    },
+    {
+      "event": "Hacktoberfest 2018",
+      "title": "Organiser",
+      "date": "October 2018",
+      "location": "Mauritius"
+    },
+    {
+      "event": "DevFest Mauritius",
+      "title": "Building web apps with Vue.je and Firebase",
+      "date": "December 2018",
+      "location": "Mauritius"
+    },
+    {
+      "event": "DevFest Mauritius",
+      "title": "Workshop : Building Pet Shop App with Vue.js by Vue Vixens",
+      "date": "December 2018",
+      "location": "Mauritius"
+    },
+    {
+      "event": "Developer Conference",
+      "title": "Hands-on Vue.js",
+      "date": "April 2019",
+      "location": "Mauritius"
+    },
+    {
+      "event": "Switch Conference",
+      "title": "Organiser Team - Website",
+      "date": "June 2019",
+      "location": "Mauritius"
+    },
+    {
+      "event": "Frontend Mauritius",
+      "title": "Set up a blog with Netlify in less than 10 minutes.",
+      "date": "July 2019",
+      "location": "Mauritius"
+    }
+  ],
+  "social": {
+    "blueSky": "https://bsky.app/profile/humeira.bsky.social",
+    "github": "https://github.com/humeira",
+    "linkedIn": ""
+  }
+}
